@@ -34,6 +34,7 @@
 
 ## 📬 For Platform Representatives  
 Legal/PR inquiries: **gdpr@assureinsight.com**  
+Website: https://assureinsight.com/
 
 ## 📜 License  
 Open-source (MIT) - Use at your own risk  
